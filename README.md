@@ -1,7 +1,4 @@
-# RSS Reader Demo App
-## Based on Ionic
-==================================================================================================================
-
+# RSS Reader Demo App - Ionic
 This demo app is a basic RSS Reader retrieving RSS feeds from the Red Hat Mobile Platform.
 
 #### views/example.html
