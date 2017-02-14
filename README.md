@@ -29,12 +29,12 @@ The response will be used to populate the RSS feeds in the scope of the controll
 - Start typing in the search bar `Bare Project`
 - Click `Choose` and specify a name for the project: `RSS`
 
-![alt text](./pictures/create_bare_project.png "Create a Bare Proejct")
+![alt text](./pictures/create_bare_project.png "Create a Bare Project")
 
 - Click `Create` and `Finish` after the wizard has completed
 - This will open your project in RHMAP:
 
-![alt text](./pictures/bare_project.png "Newly created Bare Proejct")
+![alt text](./pictures/bare_project.png "Newly created Bare Project")
 
 ### Import an exisiting app
 
