@@ -64,3 +64,14 @@ The response will be used to populate the RSS feeds in the scope of the controll
 Since the client requests RSS feeds from it's corresponding server-side API, we would need to create a Cloud App in this project:
 
 Continue with the import of the prepared [Cloud App](https://github.com/mmetting/RHMAP-RSS-Reader-Demo-Cloud-App).
+
+### Configure the Ionic app
+
+> After adding the Cloud App and it's dependencies to your domain, you would need to change the fhconfig.json to reflect your domain / project.
+
+- Go to the Editor - Tab of the imported Ionic app and open the file `www/fhconfig.json``
+- Change the following values to reflect your domain:
+    - appid - can be found on the app's Details tab
+    - appkey - can be found on the app's Details tab
+    - host - the URL to your domain
+    - projectid - click on the `Settings` menu item of your project
