@@ -20,9 +20,9 @@ The response will be used to populate the RSS feeds in the scope of the controll
 
 ## Import / Installation on a RHMAP domain
 
-### Create a new porject
+### Create a new project
 
-> You can skip the creation of a new project, if you want to import the client into an exisiting project.
+> You can skip the creation of a new project, if you want to import the client into an existing project.
 
 - Open your domain
 - Click on `Projects` --> `+ New Project`
@@ -36,7 +36,7 @@ The response will be used to populate the RSS feeds in the scope of the controll
 
 ![alt text](./pictures/bare_project.png "Newly created Bare Project")
 
-### Import an exisiting app
+### Import an existing app
 
 - Click the little plus sign in the apps' section
 - Select `Import Existing App`
@@ -51,7 +51,7 @@ The response will be used to populate the RSS feeds in the scope of the controll
 - Insert the following Git Repo URL: `https://github.com/mmetting/RSS-Reader-Demo-App-Ionic`
 - Make sure, `master` is specified
 
-![alt text](./pictures/ionic_import_from_github.png "Import an exisiting Ionic app from GitHub")
+![alt text](./pictures/ionic_import_from_github.png "Import an existing Ionic app from GitHub")
 
 - Click the button for `Import & Move on to Integration`
 
